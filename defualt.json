@@ -1,0 +1,29 @@
+{
+    "tickets": [
+      {
+        "id": 1,
+        "subject": "Login Issues",
+        "status": "Open",
+        "description": "Users are unable to log in to their accounts."
+      },
+      {
+        "id": 2,
+        "subject": "Payment Error",
+        "status": "In Progress",
+        "description": "Customers are reporting issues with payment processing."
+      },
+      {
+        "id": 3,
+        "subject": "Feature Request",
+        "status": "Open",
+        "description": "Request for a new feature to be added to the system."
+      },
+      {
+        "id": 4,
+        "subject": "Website Downtime",
+        "status": "Closed",
+        "description": "The website was temporarily unavailable due to server maintenance."
+      }
+    ]
+  }
+  
